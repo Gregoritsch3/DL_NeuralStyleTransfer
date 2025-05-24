@@ -1,1 +1,2 @@
 # DL_NeuralStyleTransfer
+A DL project that implements Neural Style Transfer on images using a pretrained model, a VGG19-based architecture, and a Feed-Forward architecture after Johnson et al. (2016). The different models utilize custom TensorFlow training loops, cost functions and layers (InstanceNormalization). Various tendencies of such architectures are discussed.
